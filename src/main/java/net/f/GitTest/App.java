@@ -6,6 +6,6 @@ package net.f.GitTest;
  */
 public class App {
 	public static void main(String[] args) {
-		System.err.println("ERROR");
+		System.out.println("Hello!");
 	}
 }
