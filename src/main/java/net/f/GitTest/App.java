@@ -6,6 +6,6 @@ package net.f.GitTest;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hello world 20150113!");
+		System.out.println("Hello world 20150113 testing!");
 	}
 }
